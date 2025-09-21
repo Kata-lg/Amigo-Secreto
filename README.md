@@ -22,4 +22,5 @@ Este proyecto permite gestionar una lista de amigos y seleccionar uno al azar pa
 - JavaScript
 
 ## Autor
+Katalina Tamara Lagos Garcés.
 Desarrollado como parte del desafío de programación de ONE-Alura.
