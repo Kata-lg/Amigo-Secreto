@@ -14,6 +14,7 @@ Este proyecto permite gestionar una lista de amigos y seleccionar uno al azar pa
 3. La lista de amigos se actualizará automáticamente.
 4. Para seleccionar un amigo al azar, haga clic en el botón "Sortear amigo".
 5. El nombre del amigo seleccionado aparecerá en la parte inferior.
+6. El nombre seleccionado aparecrá por 5 segundos y luego se quitará de la lista.
 
 ## Tecnologías Utilizadas
 - HTML
